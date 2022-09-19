@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/decobocollabo/Postural-Control-Assessment/blob/main/postural_control_assessment.ipynb)
 
-This repository contains a code of Postural Control Assessment toolkit. It can be run on [Google Colaboratory](https://colab.research.google.com/?hl=en).
+This repository contains a code of [Postural Control Assessment toolkit](https://colab.research.google.com/github/decobocollabo/Postural-Control-Assessment/blob/main/postural_control_assessment.ipynb). It can be run on [Google Colaboratory](https://colab.research.google.com/?hl=en).
 
 This toolkit calculates static postural balance score (SPB) and antigravity score (AG) from a video of participant who is maintaining Bird Dog Posture. SPBs and AGs are calculated of the upper limbs, of the lower limbs and of the whole body, and output to a csv file. The user must set some variables in the code. For example, a path to the directory on Google Drive, which contains input videos you would like to analyze.
 
