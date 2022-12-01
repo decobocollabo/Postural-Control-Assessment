@@ -10,4 +10,4 @@ The toolkit makes use of [MediaPipe Pose](https://google.github.io/mediapipe/sol
 
 See the code and the following paper for details of this toolkit.
 
->"Development and Verification of Postural Control Assessment Using Deep-Learning-Based Pose Estimators: Towards Clinical Applications," _Occupational Therapy International_ (Under reivisoin).
+>Naoto Ienaga, Shuhei Takahata, Kei Terayama, Daiki Enomoto, Hiroyuki Ishihara, Haruka Noda, Hiromichi Hagihara, "Development and Verification of Postural Control Assessment Using Deep-Learning-Based Pose Estimators: Towards Clinical Applications," _Occupational Therapy International_, 2022. [https://doi.org/10.1155/2022/6952999](https://doi.org/10.1155/2022/6952999)
